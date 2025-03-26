@@ -227,4 +227,4 @@ ${this.data.programming_engineering.companies.join('\n')}`;
     }
 }
 
-const botInstance = new Bot('7654138519:AAHpn_YyVjpSiVhGZYXEhmgriLUWFOQTV0E');
+const botInstance = new Bot('7654...');
